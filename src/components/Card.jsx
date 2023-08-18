@@ -7,6 +7,7 @@ const Card = ({
     description,
     buttonText,
     link,
+    
 }) => {
     return (
         <div className='card-container'>

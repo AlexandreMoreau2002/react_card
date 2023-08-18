@@ -6,3 +6,5 @@ en suivant le tutoriel suivant : https://www.youtube.com/watch?v=Ts3kTbdQ_4U
 
 pour run le projet : https://www.youtube.com/watch?v=sS-WrAzWR4c
     (pnpm run dev)
+
+prochaine étape : en afficher 6 sur la meme pages avec des données differentes chacune 
