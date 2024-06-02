@@ -11,7 +11,14 @@
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-color: #92CEA8;
+  background-color: #92cea8;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
 }
 
 .card-container {
@@ -44,6 +51,4 @@
   color: white;
   text-decoration: none;
   margin: 0.5rem;
-}
-
-/*# sourceMappingURL=index.css.map */
+}/*# sourceMappingURL=index.css.map */
